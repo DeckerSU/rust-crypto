@@ -8,7 +8,6 @@
 
 extern crate rand;
 extern crate time;
-extern crate libc;
 extern crate hex;
 extern crate base64;
 
